@@ -10,3 +10,9 @@
 img.profile {
 	border-radius: 50%;
 }
+
+#name{
+	background-color: lightblue;
+	border:2px solid black;
+	padding: 30px;
+}
